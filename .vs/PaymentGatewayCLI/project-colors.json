@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f5a1a8a-1294-49ab-b2f0-fba933ff60ab": {
+      "ProjectGuid": "4f5a1a8a-1294-49ab-b2f0-fba933ff60ab",
+      "DisplayName": "PaymentGatewayCLI",
+      "ColorIndex": 0
+    },
+    "72083dfc-318b-43fa-a2d4-e9e410d2fdff": {
+      "ProjectGuid": "72083dfc-318b-43fa-a2d4-e9e410d2fdff",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
